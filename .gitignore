@@ -1,2 +1,8 @@
 /.vscode/
+/build/*
+/lib/*
+
 /bin/*
+*.stackdump
+
+.DS_Store
